@@ -27,6 +27,15 @@ Este projeto consiste em um sistema de sensores de proximidade para carros de Fo
   - Se a distância estiver entre 1 e 2 metros, a luz laranja pisca.
 - Os sensores são utilizados para evitar colisões laterais e traseiras, especialmente em pontos cegos.
 
+## Exibição via Wokwi
+
+Abaixo está sendo exibido uma captura de tela do projeto sendo apresentado via Wokwi
+
+![Screenshot_1](https://github.com/davidcordeiro15/Sprint_1_Edge/assets/161903325/31ada953-e4f1-4002-94ad-10526ec7bfa2)
+
+![Screenshot_2](https://github.com/davidcordeiro15/Sprint_1_Edge/assets/161903325/b95a0d4f-b122-48aa-9d42-28bd300cdbb0)
+
+
 ## Materiais
 
 - 1 Arduino UNO
@@ -74,4 +83,4 @@ Abra o Serial Monitor para visualizar as distâncias medidas pelos sensores.
 Observe os LEDs piscando conforme a proximidade de objetos detectada pelos sensores.
 
 ## Licença
-Este projeto é de código aberto e pode ser utilizado livremente para fins educacionais e pessoais.    
+Este projeto é de código aberto e pode ser utilizado livremente para fins educacionais e pessoais.
