@@ -82,5 +82,8 @@ Carregue o código no Arduino UNO usando a IDE do Arduino.
 Abra o Serial Monitor para visualizar as distâncias medidas pelos sensores.
 Observe os LEDs piscando conforme a proximidade de objetos detectada pelos sensores.
 
+##Link do projeto no Wokwi
+https://wokwi.com/projects/399046271463787521
+
 ## Licença
 Este projeto é de código aberto e pode ser utilizado livremente para fins educacionais e pessoais.
